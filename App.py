@@ -11,7 +11,7 @@ Description: This program helps users decide what to wear based on the current w
             personalized outfit suggestion based on the conditions.
 User Input:
     - Temperature in Fahrenheit (Float)
-    - Weather type (String: sunny, rainy, snowy, etc.)
+    - Weather type options(String: "sunny", "rainy", "snowy", "cloudy", "windy", "stormy")
     - Wind speed in mile/h (Float)
 Program Output:
     - Display of the entered weather conditions (in °F)
